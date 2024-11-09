@@ -1,8 +1,6 @@
-# React + Vite
+# Examen Parcial de Formulario
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En el examen desarrollé un formulario que pregunta al usuario su nombre, el nombre de su banda favorita y el nombre de su artista solista favorita.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- La primera validación evaluada la llevé a cabo con la banda en donde el input ingresado debe ser mayor a 3 caracteres y no comenzar con espacio.
+- La segunda validación evaluada está en la consulta por el nombre del artista solista que debe ser superior a 6 caracteres.
